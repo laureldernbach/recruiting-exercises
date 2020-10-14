@@ -1,2 +1,2 @@
-# recruiting-exercises
-Python code for Delivrr's Inventory Allocation problem
+# Inventory Allocation
+Python code for Deliverr's Inventory Allocation coding challenge
